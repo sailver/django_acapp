@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-6o@vf1s2=pcu3$*a=x1k@lcdkz+6w!tugzpo(rry%_e9g-^$6%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["sailver.top"]
 
 
 # Application definition
